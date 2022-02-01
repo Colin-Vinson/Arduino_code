@@ -1,3 +1,6 @@
+/*
+This is a comment block!
+*/
 const int motor = 6;  //PWM --> base of Tip122, collector of Tip122 --> motor
 const int start_button = 8;
 
